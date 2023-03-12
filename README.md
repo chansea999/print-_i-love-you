@@ -1,4 +1,7 @@
 # print-_i-love-you
+ 
+ Hi!, I'm Chan Sea.
+ Computer Science student, I'm Chan, the kind of person that's curious about a new technology that's sweeping around the world and really crazy about coding more.
 
 1.code:
 
