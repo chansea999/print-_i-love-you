@@ -7,3 +7,6 @@
 2.result:
 
 ![image](https://user-images.githubusercontent.com/115343007/224571252-f2b41a0e-2f5d-4b14-8486-26ea818c45e0.png)
+
+
+Noted: i have free time, i want to coding liked this, please testing on your pc, you will see your result liked this.
